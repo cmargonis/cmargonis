@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ## Trophy showcase!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cmargonis&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cmargonis&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
