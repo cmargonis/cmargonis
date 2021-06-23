@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Stats
+
 [![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmargonis&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Trophy showcase!
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=cmargonis&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
